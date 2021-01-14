@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=Nitin523&show_icons=true&theme=chartreuse-dark)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nitin523&repo=github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nitin523&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
