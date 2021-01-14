@@ -5,7 +5,7 @@
 
 
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://www.socialworker.com/downloads/1845/download/techmonster600.jpg?cb=055d7161bc72004bdd082677a8c7162d&w=600&h=)
 
 Here are some ideas to get you started:
 
