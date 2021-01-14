@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 ![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=Nitin523&show_icons=true&theme=chartreuse-dark)
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin523&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nitin523&repo=Nitin523-Doctors-Heaven-Django)](https://github.com/anuraghazra/github-readme-stats)
