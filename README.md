@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Nitin !👋
 
 <!--
 **Nitin523/Nitin523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: instagram nitin_4_u
 - ⚡ Fun fact: I am in  Love with machine that's why i am #single
+
+
+![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=Nitin523&show_icons=true&theme=radical)
 
