@@ -18,5 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am in  Love with machine that's why i am #single
 
 
+
+
 ![Nitin's github stats](https://github-readme-stats.vercel.app/api?username=Nitin523&show_icons=true&theme=chartreuse-dark)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nitin523&repo=github-readme-stats)](https://github.com/Nitin523/github-readme-stats)
 
