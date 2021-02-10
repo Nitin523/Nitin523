@@ -1,4 +1,4 @@
-### Hi there I am Nitin !👋
+### Hi there, I am Nitin !👋
 
 <!--
 **Nitin523/Nitin523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
