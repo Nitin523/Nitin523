@@ -5,7 +5,7 @@
 
 
 
-![alt tag](https://ih1.redbubble.net/image.183301713.1644/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg)
+![alt tag](https://ih1.redbubble.net/image.183301713.1644/poster,504x498,f8f8f8-pad,450x500,f8f8f8.jpg)
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and various frameworks like Kafka, spring boot etc ...
 - 👯 I’m looking to collaborate on well functional desktop and web project...
 
-- 🤔 I’m looking for help in various new concepts in Machine learning...
+- 🤔 I’m looking for help in various new concepts in Rest API development...
 - 📫 How to reach me: instagram "nitin_4_u"
 - ⚡ Fun fact: I am in Love with machine that's why i am #single
 
