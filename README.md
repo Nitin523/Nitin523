@@ -4,16 +4,13 @@
 **Nitin523/Nitin523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
+Here are some ideas to know about me:
 
-![alt tag](https://ih1.redbubble.net/image.183301713.1644/poster,504x498,f8f8f8-pad,450x500,f8f8f8.jpg)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java Development...
+- 🔭 I’m currently working on Full Stack developement.
 - 🌱 I’m currently learning Java and various frameworks like Kafka, spring boot etc ...
-- 👯 I’m looking to collaborate on well functional desktop and web project...
+- 👯 I’m looking to collaborate on well functional Full Stack projects.
 
-- 🤔 I’m looking for help in various new concepts in Rest API development...
+- 🤔 I’m looking for help with various new concepts in Rest API development...
 - 📫 How to reach me: instagram "nitin_4_u"
 - ⚡ Fun fact: I am in Love with machine that's why i am #single
 
