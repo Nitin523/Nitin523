@@ -6,12 +6,8 @@
 
 Here are some ideas to know about me:
 
-- 🔭 I’m currently working on Full Stack developement.
+- 🔭 I’m currently working on Full Stack development.
 - 🌱 I’m currently learning Java and various frameworks like Kafka, spring boot etc ...
-- 👯 I’m looking to collaborate on well functional Full Stack projects.
-
-- 🤔 I’m looking for help with various new concepts in Rest API development...
-- 📫 How to reach me: instagram "nitin_4_u"
 - ⚡ Fun fact: I am in Love with machine that's why i am #single
 
 
